@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to top left, #2a3bd4, #5562dd);
+}
+
+.heading-primary{
+    font-size: 50px;
+    color: #fff;
+    width: 100%;
+    padding: 30px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
